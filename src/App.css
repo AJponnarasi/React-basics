@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+body{
+  background: #eee;
+}
+.btn-primary{
+  background-color: #89251a;
+  border: 1px solid #89251a;
+}
+.btn-primary:hover{
+  background-color: #89251aa6;
+  border: 1px solid #89251a;
+}
+.border-right{
+  border-right: 1px solid #ccc;
+}
